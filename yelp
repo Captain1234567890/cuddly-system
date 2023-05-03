@@ -1,0 +1,123 @@
+<link rel="alternate" type="application/atom+xml" title="W3C News" href="/blog/news/feed/atom" />
+</head>
+<body id="www-w3-org" class="w3c_public">
+<div id="w3c_container">
+<!-- Generated from data/mast-home.php, Array{mast.tpl} -->
+<div id="w3c_mast"><!-- #w3c_mast / Page top header -->
+<h1 class="logo"><a tabindex="2" accesskey="1" href="/"><img src="/2008/site/images/logo-w3c-mobile-lg" width="90" height="53" alt="W3C" /></a> <span class="alt-logo">W3C</span></h1>
+<div id="w3c_nav">
+<form action="https://www.w3.org/Help/search" method="get" enctype="application/x-www-form-urlencoded">
+<!-- w3c_sec_nav is populated through js -->
+<div class="w3c_sec_nav"><!-- --></div>
+<ul class="main_nav"><!-- Main navigation menu -->
+<li class="first-item"><a href="/standards/">Standards</a></li>
+<li><a href="/participate/">Participate</a></li>
+<li><a href="/Consortium/membership">Membership</a></li>
+<li class="last-item"><a href="/Consortium/">About W3C</a></li>
+<li class="search-item">
+<div id="search-form"><input tabindex="3" class="text" name="q" value="" title="Search" /> <button id="search-submit" name="search-submit" type="submit"><img class="submit" src="/2008/site/images/search-button" alt="Search" width="21" height="17" /></button></div>
+</li>
+</ul>
+</form>
+</div>
+</div>
+<!-- /end #w3c_mast -->
+<div id="w3c_main">
+<div id="w3c_logo_shadow" class="w3c_leftCol"><img height="32" alt="" src="/2008/site/images/logo-shadow" /></div>
+<div class="w3c_leftCol">
+<h2 class="offscreen">Site Navigation</h2>
+<h3 class="category tMargin"><span class="ribbon"><a href="Consortium/mission.html#principles">Web for All <img src="/2008/site/images/header-link.gif" alt="Header link" width="13" height="13" class="header-link" /></a></span></h3>
+<ul class="theme">
+<li><a href="/WAI/">Accessibility</a></li>
+<li><a href="/International/">Internationalization</a></li>
+<li><a href="Security/">Web Security</a></li>
+<li><a href="Privacy/">Privacy</a></li>
+</ul>
+<h3 class="category tMargin"><span class="ribbon"><a href="standards/">Web and Industry <img src="/2008/site/images/header-link.gif" alt="Header link" width="13" height="13" class="header-link" /></a></span></h3>
+<ul class="theme">
+<li><a href="auto/">Automotive and Transportation</a></li>
+<li><a href="tv/">Entertainment (TV and Broadcasting)</a></li>
+<li><a href="publishing/">Publishing</a></li>
+<li><a href="Payments/">Web Payments</a></li>
+<li><a href="2013/data/">Web of Data</a></li>
+<li><a href="Telco/">Web and Telecommunications</a></li>
+<li><a href="WoT/">Web of Things</a></li>
+</ul>
+<h3 class="category tMargin"><span class="ribbon"><a href="/groups/">W3C Work Groups <img src="/2008/site/images/header-link.gif" alt="Header link" width="13" height="13" class="header-link" /></a></span></h3>
+<ul class="theme">
+<li><a href="/Consortium/cepc/">Code of Ethics and Professional
+Conduct</a></li>
+<li><a href="/Guide/">Participant guidebook</a></li>
+<li><a href="/community/groups/">W3C Community Groups</a></li>
+<li><a href="/Help/Account/">Get a W3C Account</a></li>
+</ul>
+<h3 class="category tMargin"><span class="ribbon"><a href="participate/">Dev Resources <img src="/2008/site/images/header-link.gif" alt="Header link" width="13" height="13" class="header-link" /></a></span></h3>
+<ul class="theme">
+<li><a title="W3C Developer Avenue" href="/developers/"><img src="/2015/10/W3C-Developers_Assets/W3C-Developers-Dark.png" width="150" alt="W3C Developers" title="W3C Developer Avenue" /></a></li>
+<li><a title="W3C API" href="/api/">API<img src="/2020/07/w3c-api.png" width="60" alt="API" title="W3C API" style="vertical-align:middle;" /></a></li>
+<li><a href="https://validator.w3.org/">Validators</a></li>
+<li><a href="https://www.w3.org/2009/cheatsheet/">W3C
+cheatsheet</a></li>
+<li><a href="Status.html">More Open Source Software</a></li>
+<li><a title="Open Web Platform testing" href="https://web-platform-tests.org/">Web Platform Tests</a></li>
+<li><a title="MOOCs from W3C on edX" href="https://www.edx.org/school/w3cx">W3Cx (Training)</a></li>
+</ul>
+</div>
+<div class="w3c_mainCol">
+<div id="w3c_crumbs">
+<div id="w3c_crumbs_frame">
+<p class="bct"><span class="skip"><a tabindex="1" accesskey="2" title="Skip to content (e.g., when browsing via audio)" href="#w3c_most-recently">Skip</a></span></p>
+<br /></div>
+</div>
+<div class="line">
+<div class="unit size2on3">
+<div class="main-content">
+<h2 class="offscreen">News</h2>
+<div id="w3c_slideshow"><div id="w3c_most-recently" class="intro hierarchy vevent_list">
+   <div class="event w3c_topstory expand_block">
+      <div class="headline">
+         <h3 class="h4 tPadding0 bPadding0 summary">
+            <span class="expand_section">W3C opens Advisory Board (AB) election</span>
+         </h3>
+         <p class="date">
+            <span class="dtstart published" title="2023-05-03T09:57:16Z"> 3 May 2023 </span> | <a title="Archive: W3C opens Advisory Board (AB) election" href="https://www.w3.org/blog/news/archives/9903">Archive</a>
+         </p>
+      </div>
+      <div class="description expand_description"><p>
+<a class="imageLink" href="https://www.w3.org/2023/04/ab-nominations.html"><img decoding="async" src="https://www.w3.org/blog/news/files/2018/05/w3c-ab-300x300.jpg" alt="Logo for the W3C Advisory Board" width="100" /></a>The W3C Advisory Committee has nominated nine individuals, and is invited today to vote until 1 June 2023 for <strong>six seats</strong> in the <a href="https://www.w3.org/2002/ab/">W3C Advisory Board (AB)</a> election. Please, read the <a href="https://www.w3.org/2023/04/ab-nominations.html">statements of the nominees</a>.
+</p>
+<p>
+Created in March 1998, the Advisory Board provides ongoing guidance to the W3C Team on issues of strategy, management, legal matters, process, and conflict resolution. The Advisory Board also serves the W3C Members by tracking issues raised between Advisory Committee meetings, soliciting Member comments on such issues, and proposing actions to resolve these issues. The Advisory Board manages the evolution of the Process Document. The Advisory Board hears appeals of Member Submission requests that are rejected for reasons unrelated to Web architecture. For several years, the AB has conducted its work in a <a href="https://www.w3.org/wiki/AB">public wiki</a>.
+</p>
+<p>
+The elected Members of the Advisory Board participate as individual contributors and not representatives of their organizations. Advisory Board participants use their best judgment to find the best solutions for the Web, not just for any particular network, technology, vendor, or user.</p>
+</div>
+   </div>
+   <div class="event w3c_topstory expand_block">
+      <div class="headline">
+         <h3 class="h4 tPadding0 bPadding0 summary">
+            <span class="expand_section">World Wide Web Consortium seeking next CEO</span>
+         </h3>
+         <p class="date">
+            <span class="dtstart published" title="2023-04-21T13:02:34Z"> 21 April 2023 </span> | <a title="Archive: World Wide Web Consortium seeking next CEO" href="https://www.w3.org/blog/news/archives/9891">Archive</a>
+         </p>
+      </div>
+      <div class="description expand_description"><p id="desc">The World Wide Web Consortium (W3C) is working with leading international executive search firm <a href="https://candidates.perrettlaver.com/vacancies/3565/">Perrett Laver</a> to find qualified candidates from around the world to be our CEO.</p>
+<p>W3C began 2023 by forming a new public-interest incorporated not-for-profit organization. We are now seeking our next leader at this exciting time in our evolution.</p>
+<p>The new organization preserves the core process and mission of the Web Consortium to shepherd the Web, by developing open web standards as a single global organization with contributions from W3C Members, staff, and the international community. The new W3C entity preserves our member-driven approach and existing worldwide outreach and cooperation.</p>
+<p>W3C is a unique organization at a crucial transition point in its existence. Reporting to the newly formed Board of Directors, the CEO will be responsible for the success of W3C in line with our mission. The CEO must be an experienced and collaborative leader who appreciates the strong assets of W3C &#x2014;its expert staff, engaged members, committed Board and fantastic reputation&#x2014; and has the capacity to effectively leverage these to transform the organization and ensure a bright future and further impact.</p>
+<p>The next CEO of W3C will be a strategic, collaborative, and motivating leader. They will have a global mindset and the ability to effectively engage with a diverse range of stakeholders. They will be a person of integrity who is forward thinking and supportive of staff. Most importantly, they will have an affinity for, and understanding of, the work, mission, and values of W3C.</p>
+<p>W3C invites applications from qualified CEO candidates from across several continents. Please refer to the <a href="https://candidates.perrettlaver.com/vacancies/3565/">Perrett Laver</a> site. <strong>The deadline for applications is Friday, May 12th, 2023. </strong></p>
+</div>
+   </div>
+   <div class="event closed expand_block">
+      <div class="headline">
+         <h3 class="h4 tPadding0 bPadding0 summary">
+            <span class="expand_section">First Public Working Drafts: Verifiable Credentials Status List v2021; Securing Verifiable Credentials using JSON Web Tokens</span>
+         </h3>
+         <p class="date">
+            <span class="dtstart published" title="2023-04-27T08:57:48Z"> 27 April 2023 </span> | <a title="Archive: First Public Working Drafts: Verifiable Credentials Status List v2021; Securing Verifiable Credentials using JSON Web Tokens" href="https://www.w3.org/blog/news/archives/9901">Archive</a>
+         </p>
+      </div>
+      <div class="description expand_description"><p>The <a href="https://www.w3.org/groups/wg/vc">Verifiable Credentials Working Group</a> has published the following two First Public Working Drafts:</p>
+<ul class="show_items">
